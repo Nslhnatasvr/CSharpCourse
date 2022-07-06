@@ -1,0 +1,7 @@
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

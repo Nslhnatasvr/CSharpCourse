@@ -1,0 +1,7 @@
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\Yazilim\RiderProjects\CSharpCourse\Classes\obj\Debug\Classes.pdb
