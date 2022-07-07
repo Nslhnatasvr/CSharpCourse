@@ -17,8 +17,8 @@ namespace Classes
             Customer customer = new Customer();
             customer.City = "Düzce";
             customer.Id = 1;
-            customer.FirstName = "Bilal";
-            customer.LastName = "Çiçek";
+            customer.FirstName = "Sevgi";
+            customer.LastName = "Atasever";
  
             Customer customer2 = new Customer
             {
